@@ -39,7 +39,7 @@ The processor features a complex pipeline with separate stages for Instruction F
 | Folder       | Description                                      |
 |--------------|--------------------------------------------------|
 | `Report/`    | Complete project report with analysis and designs |
-| `Diagrams/`  | Pipeline diagrams and datapath designs (optional) |
+| `Diagrams/`  | Pipeline diagrams and datapath designs |
 
 ---
 
